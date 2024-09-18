@@ -34,6 +34,14 @@ The final digital tool will be written in ...... Blazor? (Fill in when it will b
 
 It is important to track changes made during software development, for this purpose, Git will be used. To enable cooperation among the members of the team, GitHub will be used.
 
+### Tests
+
+The digital tool will be used in healthcare environment and provide valuable information to pharmacists and doctors. It is in the best intereset of all parties, that the tool works correctly to provide seamless and enriching usage. For this purpose the functions of the tool will be tested via unit tests.
+
+### Documentation
+
+The tool will be managed and used by another people in the future. For that purpose user and technical documentation will be written. User documentation will contain information how to use the program, what are the main features and how to get advatage of them. Technical documentation will contain information about the code itself, its structure, usage of functions etc. For easier future changes in the code, functions and classess will have documentation comments.
+
 ### Ethical considerations
 
 During the development of the digital tool, an analysis of medical data be conducted. Information about patients' health is personal information, so the data should not be shared with anybody to provide anonymity and confidentiality of people's data. The final digital tool cannot share data with third parties outside of MUMC+ hospital.
