@@ -20,7 +20,7 @@ MUMC+ has a dataset of approximately 8,000,000 records in a relational database.
 
 After the data is obtained from MUMC+, data will be cleaned, unified and prepared for analysis. Then the PSSA analysis will be performed. At the moment there is not a database of cascades so already known cascades can be rediscovered. In fact there is an excellent chance to discover new cascades because the data provided by the hospital could reveal patterns which are not known today. Discovered cascades will be consulted with Yannick Nielen and other possible pharmacists who will provide expertise in this field and could point out the wanted and unwanted cascades. 
 
-After the data analysis, the digital tool will be created. Firstly a series of interviews and surveys with potential users will be conducted to capture feedback about the required application functions. Also, it is necessary to get information about the possible layout of the application, how warnings should be displayed and last but not least how to application would be used in production.
+After the data analysis, the digital tool will be created. Firstly a series of interviews and surveys with potential users will be conducted to capture feedback about the required application functions. Also, it is necessary to get information about the possible layout of the application, how warnings should be displayed and last but not least how the application would be used in production.
 
 The draft of the product will be presented to Yannick Nielen and other pharmacists at MUMC+. This selection of people represents potential users in the first phase of development. To tackle their ideas and comments, series of code adjustments and presentations will be held. 
 
