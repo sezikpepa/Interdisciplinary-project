@@ -18,11 +18,11 @@ MUMC+ has a dataset of approximately 8,000,000 records in a relational database.
 
 ### Program development process
 
-After the data is obtained from MUMC+, data will be cleaned, unified and prepared for analysis. Then the PSSA analysis will be performed. There is not a database of cascades so already known cascades can be rediscovered. There is an excellent chance to discover new cascades because the data provided by the hospital could reveal patterns which are not known today. Discovered cascades will be consulted with Yannick Nielen and other possible pharmacists who will provide expertise in this field and could point out the wanted and unwanted cascades. 
+After the data is obtained from MUMC+, data will be cleaned, unified and prepared for analysis. Then the PSSA analysis will be performed. At the moment there is not a database of cascades so already known cascades can be rediscovered. In fact there is an excellent chance to discover new cascades because the data provided by the hospital could reveal patterns which are not known today. Discovered cascades will be consulted with Yannick Nielen and other possible pharmacists who will provide expertise in this field and could point out the wanted and unwanted cascades. 
 
-After the data analysis, the digital tool will be created. Firstly a series of interviews and surveys with potential users will be conducted to capture feedback about the application functions. Also, it is necessary to get information about the possible layout of the application, how warnings should be displayed and last but not least how to application would be used in production.
+After the data analysis, the digital tool will be created. Firstly a series of interviews and surveys with potential users will be conducted to capture feedback about the required application functions. Also, it is necessary to get information about the possible layout of the application, how warnings should be displayed and last but not least how to application would be used in production.
 
-The draft of the product will be presented to Yannick Nielen and other pharmacists at MUMC+. This selection of people represents potential users in the first phase of development. To tackle their ideas and comments series of code adjustments and presentations will be held. 
+The draft of the product will be presented to Yannick Nielen and other pharmacists at MUMC+. This selection of people represents potential users in the first phase of development. To tackle their ideas and comments, series of code adjustments and presentations will be held. 
 
 ### Technologies
 
@@ -32,19 +32,19 @@ Data analysis itself is going to be performed via Python. This includes librarie
 
 The final digital tool will be written in ...... Blazor? (Fill in when it will be known)
 
-It is important to track changes made during software development, for this purpose, Git will be used. To enable cooperation among the members of the team, GitHub will be used.
+It is important to track changes made during software development, for this purpose, Git will be adopted in a form of GitHub.
 
 ### Tests
 
-The digital tool will be used in healthcare environment and provide valuable information to pharmacists and doctors. It is in the best intereset of all parties, that the tool works correctly to provide seamless and enriching usage. For this purpose the functions of the tool will be tested via unit tests.
+The digital tool will be used in healthcare environment and provide valuable information to pharmacists and doctors. It is in the best intereset of all parties, that the tool works correctly to provide seamless and enriching usage. For this purpose the functions of the tool will be tested via unit tests. Which will test the correct functionality of users' inputs.
 
 ### Documentation
 
-The tool will be managed and used by another people in the future. For that purpose user and technical documentation will be written. User documentation will contain information how to use the program, what are the main features and how to get advatage of them. Technical documentation will contain information about the code itself, its structure, usage of functions etc. For easier future changes in the code, functions and classess will have documentation comments.
+The tool will be managed and used by another people in the future. For that purpose user and technical documentation will be written. User documentation will contain information how to use the program, what are the main features and how to get advatage of them. On the other hand, technical documentation will contain information about the code itself, its structure, usage of functions etc. For easier future changes in the code, functions and classess will have documentation comments describing their funcionality, inputs and ouputs.
 
 ### Ethical considerations
 
-During the development of the digital tool, an analysis of medical data be conducted. Information about patients' health is personal information, so the data should not be shared with anybody to provide anonymity and confidentiality of people's data. The final digital tool cannot share data with third parties outside of MUMC+ hospital.
+During the development of the digital tool, an analysis of medical data will be conducted. Information about patients' health is personal, so the data should not be shared with anybody to provide anonymity and confidentiality of people's data. The final digital tool cannot share data with third parties outside of MUMC+ hospital.
 
 ### Evaluation
 
