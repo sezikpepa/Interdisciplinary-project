@@ -30,6 +30,14 @@ The data will be provided in a form of CSV file exported from a relational datab
 
 Data analysis itself is going to be performed via Python. This includes libraries designed for data science, eg. Pandas, NumPy, Mathplotlib
 
-Final digital tool will be written in ...... (Fill in when it will be known)
+Final digital tool will be written in ...... Blazor? (Fill in when it will be known)
 
 It is important to track changes made during software development, for this purpose Git will be used. To enable cooperation during member of the team, GitHub will be used.
+
+### Ethical considerations
+
+During the development of the digital tool, analysis of medical data be conducted. Information about patients health are personal information, so the data should not be shared with anybody to provide anonymity and confidentiality of people data. The final digital tool cannot share data with third parties outside of MUMC+ hospital.
+
+### Evaluation
+
+Main users will be pharmacists so it will be up to them to decide about the quality of the application and their comments will be addressed to accommodate their needs.
