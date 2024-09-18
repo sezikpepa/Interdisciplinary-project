@@ -14,7 +14,7 @@ To enable the hospital to spot prescription cascades, a new digital tool will be
 
 ### Data collection
 
-MUMC+ has a dataset of approximately 8,000,000 records in a relational database. These records will be provided as a CSV file. Additional records could be downloaded from the Dutch National Register of Drugs.
+MUMC+ has a dataset of approximately 8,000,000 records in a relational database. These records will be provided as a CSV file. Additional records about drugs could be downloaded from the Dutch National Register of Drugs.
 
 ### Program development process
 
