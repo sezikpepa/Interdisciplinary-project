@@ -51,6 +51,3 @@ During the development of the digital tool, an analysis of medical data will be 
 ### Evaluation
 
 Main users will be pharmacists so it will be up to them to decide about the quality of the application and their comments will be addressed to accommodate their needs.
-
-
-TEST CHANGE
