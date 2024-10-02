@@ -38,7 +38,7 @@ It is important to track changes made during software development to be able det
 
 ### Tests
 
-The digital tool will be used in healthcare environment and provide valuable information to pharmacists and doctors. It is in the best intereset of all parties, that the tool works correctly to provide seamless and enriching usage. For this purpose, the functions of the tool will be tested via unit tests, which will test the correct functionality of users' inputs.
+The digital tool will be used in healthcare environment and provide valuable information to pharmacists and doctors. It is in the best interest of all parties, that the tool works correctly to provide seamless and enriching usage. For this purpose, the functions of the tool will be tested via unit tests, which will test the correct functionality of users' inputs.
 
 ### Documentation
 
